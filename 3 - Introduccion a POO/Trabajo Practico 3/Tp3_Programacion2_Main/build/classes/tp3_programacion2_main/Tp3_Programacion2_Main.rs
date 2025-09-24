@@ -1,0 +1,6 @@
+tp3_programacion2_main.Tp3_Programacion2_Main
+tp3_programacion2_main.Libro
+tp3_programacion2_main.NaveEspacial
+tp3_programacion2_main.Mascota
+tp3_programacion2_main.Gallina
+tp3_programacion2_main.Estudiante
